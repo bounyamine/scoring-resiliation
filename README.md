@@ -4,7 +4,7 @@ Modèle de Machine Learning qui estime la probabilité qu'un client d'assurance 
 
 > Projet réalisé dans le cadre de la formation **Machine Learning & Data Science** — TP final Jour 3.
 
-**🔗 Application en ligne :** https://VOTRE-NOM-scoring.streamlit.app
+**🔗 Application en ligne :** https://scoring-resiliation.streamlit.app/
 **📂 Dépôt :** https://github.com/bounyamine/scoring-resiliation
 
 ---
